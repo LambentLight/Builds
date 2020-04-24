@@ -1,0 +1,1085 @@
+{
+    "$schema": "https://raw.githubusercontent.com/LambentLight/Schemas/master/builds.json",
+    "builds": [
+        {
+            "name": "2394-1aa68b21bf9dc5faaad2c967a1274d98250cdaae",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2394-1aa68b21bf9dc5faaad2c967a1274d98250cdaae/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2393-dfdb0df427702d81095dd0959d1e9f2775a56fcc",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2393-dfdb0df427702d81095dd0959d1e9f2775a56fcc/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2392-326d276d3207ddd4adcdbac789253e318287f318",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2392-326d276d3207ddd4adcdbac789253e318287f318/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2391-36cda7aa80fbcc3c9944e4c9a1aa7fde6bb718b0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2391-36cda7aa80fbcc3c9944e4c9a1aa7fde6bb718b0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2390-6e3f590ce72a411959d61c7968ba02fdcb1afc93",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2390-6e3f590ce72a411959d61c7968ba02fdcb1afc93/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2385-05e7bf12a3cb59d9422940766d160726c4a9e264",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2385-05e7bf12a3cb59d9422940766d160726c4a9e264/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2384-827b57eaca2fcb48010ef4040d88ef6d3657df4d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2384-827b57eaca2fcb48010ef4040d88ef6d3657df4d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2382-132863cf73b30836a5daaec8d3fc5cfa9308ee74",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2382-132863cf73b30836a5daaec8d3fc5cfa9308ee74/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2381-ab2ab6f60bea917338dca5ebf0215cda29244120",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2381-ab2ab6f60bea917338dca5ebf0215cda29244120/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2380-6cbf60c5163d379b333df8d327f131e0ed90dc42",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2380-6cbf60c5163d379b333df8d327f131e0ed90dc42/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2379-3e29ee8ab44b61c106d5b69766f18b72291b6b3d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2379-3e29ee8ab44b61c106d5b69766f18b72291b6b3d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2378-4f3da522c1f668f0b47accb92f12fea34d4eb9a1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2378-4f3da522c1f668f0b47accb92f12fea34d4eb9a1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2377-f8c61140c0b7a827e8f75f337cd4290ab257ac48",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2377-f8c61140c0b7a827e8f75f337cd4290ab257ac48/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2375-512e4106575fc79580e495cce027243d335c7df3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2375-512e4106575fc79580e495cce027243d335c7df3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2374-2a0cac5db8c09dba99a41c3f5e2828168ef52acf",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2374-2a0cac5db8c09dba99a41c3f5e2828168ef52acf/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2373-2b6df4ca7acf768c1f12a24aca02946576f9c565",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2373-2b6df4ca7acf768c1f12a24aca02946576f9c565/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2372-7014f9c3e955cc70d764e300943498b75a0faa81",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2372-7014f9c3e955cc70d764e300943498b75a0faa81/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2371-fd3fae946163e8af472b7f739aed6f29eae8105f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2371-fd3fae946163e8af472b7f739aed6f29eae8105f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2369-a7802eebe117e8d785af9e80a6684ab028e0f905",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2369-a7802eebe117e8d785af9e80a6684ab028e0f905/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2368-ad7675451b9e4865fb5bf197785a02e1dee17365",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2368-ad7675451b9e4865fb5bf197785a02e1dee17365/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2367-46722883f78d0a19db87f47450bf0c96e3c906da",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2367-46722883f78d0a19db87f47450bf0c96e3c906da/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2366-b3e2b7d4a9123de8202892ad7e4026a7f261cd52",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2366-b3e2b7d4a9123de8202892ad7e4026a7f261cd52/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2365-e4cae08d2504b8d63a2521b787d3a3740c8c7e4c",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2365-e4cae08d2504b8d63a2521b787d3a3740c8c7e4c/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2363-857a935fe35d362e4ad171780dfd91d650775f3f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2363-857a935fe35d362e4ad171780dfd91d650775f3f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2362-ad8f287709593f313739e8ef16d60d7789b6b071",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2362-ad8f287709593f313739e8ef16d60d7789b6b071/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2361-5a44cbfff05f2e80967f25b6a1e2aea6a58907d7",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2361-5a44cbfff05f2e80967f25b6a1e2aea6a58907d7/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2358-c14b99f0f1616f4456a3b873eda80322115cc73b",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2358-c14b99f0f1616f4456a3b873eda80322115cc73b/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2357-98df1d7f1552ba0ae7943d1fee85607c8ebb0372",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2357-98df1d7f1552ba0ae7943d1fee85607c8ebb0372/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2356-a1456d30c6577bbcf4a4a3b82ac1593b425fcde8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2356-a1456d30c6577bbcf4a4a3b82ac1593b425fcde8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2355-e4c1af3359a00be90f3b0214243328195806f7e4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2355-e4c1af3359a00be90f3b0214243328195806f7e4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2354-97639fb2f93213f7c1ac9c7d868170a02bdf1c9d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2354-97639fb2f93213f7c1ac9c7d868170a02bdf1c9d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2353-93f897ede6b829f71bf220f8efd7fbf1238153d8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2353-93f897ede6b829f71bf220f8efd7fbf1238153d8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2347-3e7bed86b24a0f9073645f097ef190bf20b29655",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2347-3e7bed86b24a0f9073645f097ef190bf20b29655/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2345-3663f280c94a2707a1d18cfd8f063945bac4d04f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2345-3663f280c94a2707a1d18cfd8f063945bac4d04f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2342-f27898950abba702b931ace7b4899ea02a0623a2",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2342-f27898950abba702b931ace7b4899ea02a0623a2/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2340-423c3f71adf053e6393f3c6492348445f0c32cd0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2340-423c3f71adf053e6393f3c6492348445f0c32cd0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2339-509363d9dca38f61639c52cedc7bec384ea091c5",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2339-509363d9dca38f61639c52cedc7bec384ea091c5/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2338-c181f37bf818324e89ad387949fab44c1071bb0f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2338-c181f37bf818324e89ad387949fab44c1071bb0f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2337-989e7991d0811939863545292107bc0d543f2c66",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2337-989e7991d0811939863545292107bc0d543f2c66/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2336-fecb7fa01361094a921c6aa3e77a791a47e90c46",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2336-fecb7fa01361094a921c6aa3e77a791a47e90c46/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2335-fbdaad1285d9fd264c14f7f948a697224942f402",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2335-fbdaad1285d9fd264c14f7f948a697224942f402/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2334-68079d344e37bb2ac04a23d6f5af77f7a65805fa",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2334-68079d344e37bb2ac04a23d6f5af77f7a65805fa/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2333-19aa9f829d54e04ee22bef207a8248132836ce8d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2333-19aa9f829d54e04ee22bef207a8248132836ce8d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2332-a094d431fc742f36d862d63e8d47d41a6b45da1c",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2332-a094d431fc742f36d862d63e8d47d41a6b45da1c/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2331-0d15a6035a80ea3bdf15595925557cf97a1f57be",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2331-0d15a6035a80ea3bdf15595925557cf97a1f57be/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2328-2a90ab14206219b9491643261aecc4d0b62c9380",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2328-2a90ab14206219b9491643261aecc4d0b62c9380/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2327-25a32df45141be6268c5fef60acf4058b806474d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2327-25a32df45141be6268c5fef60acf4058b806474d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2326-e8d381f359a88436ee045d53a02a5acc204e1a4e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2326-e8d381f359a88436ee045d53a02a5acc204e1a4e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2325-5cef284b7e4642a53a138a0b0902d68ad3451ec2",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2325-5cef284b7e4642a53a138a0b0902d68ad3451ec2/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2324-e1df42548f28a660cff1ac98df9c9fed3ef65ee6",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2324-e1df42548f28a660cff1ac98df9c9fed3ef65ee6/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2323-76cd6aaae07ef61319257a9411c6b720c8e7bd6c",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2323-76cd6aaae07ef61319257a9411c6b720c8e7bd6c/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2322-2aca421ad1a2f523ddd63f19de701df60eaa8096",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2322-2aca421ad1a2f523ddd63f19de701df60eaa8096/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2321-1a8914f48cd17d971dbe67bb817669ee44dee953",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2321-1a8914f48cd17d971dbe67bb817669ee44dee953/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2320-0241aa96913579308489f9c5cc5ea368cca83de7",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2320-0241aa96913579308489f9c5cc5ea368cca83de7/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2319-7fb9cdb01d9c0a5ee9ce4a0d105549c97d23c522",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2319-7fb9cdb01d9c0a5ee9ce4a0d105549c97d23c522/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2318-ebbfb5d6f81b6d95b0ef9fb41b7b22599732558a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2318-ebbfb5d6f81b6d95b0ef9fb41b7b22599732558a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2317-7c8f42cc492d13b8877fd9f1667b6b76dca0d147",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2317-7c8f42cc492d13b8877fd9f1667b6b76dca0d147/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2316-543b4f210bb70dbe690bd306a91f4ca1a8683ea6",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2316-543b4f210bb70dbe690bd306a91f4ca1a8683ea6/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2315-c593b6e56bad578a3dda57454640c970276ada54",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2315-c593b6e56bad578a3dda57454640c970276ada54/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2314-417667d24e431ac19610702abd58357f2482db70",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2314-417667d24e431ac19610702abd58357f2482db70/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2312-680c3bae5d7dbb7b1e412d41db9b2b26946a75d3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2312-680c3bae5d7dbb7b1e412d41db9b2b26946a75d3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2311-8a28a509f51a39277019e66ac9ac7c32434635c4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2311-8a28a509f51a39277019e66ac9ac7c32434635c4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2310-27b980b8ca3fc4e76a973666cb34d9a901a6fdad",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2310-27b980b8ca3fc4e76a973666cb34d9a901a6fdad/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2309-fabb93608fff598c518b72fc876d0eb803400bf0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2309-fabb93608fff598c518b72fc876d0eb803400bf0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2308-5ddfceb2d3d8aa6da5459482a997f2058d121bcf",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2308-5ddfceb2d3d8aa6da5459482a997f2058d121bcf/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2306-bf871cdc34fa4dc488a1395f1b73ff950a727e69",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2306-bf871cdc34fa4dc488a1395f1b73ff950a727e69/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2305-ae1f615c0284d3e9c41d548e75772b6da9157722",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2305-ae1f615c0284d3e9c41d548e75772b6da9157722/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2303-6d1bc038ab65cf3ad8c5482f30db5415db79582d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2303-6d1bc038ab65cf3ad8c5482f30db5415db79582d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2297-243e984c52f9234b100fe8c2dfd1c8ced8c5317f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2297-243e984c52f9234b100fe8c2dfd1c8ced8c5317f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2294-babb627a8b645b05ac3288eab3e1018a6d2a496f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2294-babb627a8b645b05ac3288eab3e1018a6d2a496f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2289-29cd341ad44d96a146ee23a5eee8ac1a35557bf4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2289-29cd341ad44d96a146ee23a5eee8ac1a35557bf4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2288-b1ae434deccf6a4d30019263bf464c753a0980fa",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2288-b1ae434deccf6a4d30019263bf464c753a0980fa/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2287-3d92668d3ec932b27367bea2b6d71aa91b6373f8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2287-3d92668d3ec932b27367bea2b6d71aa91b6373f8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2286-30855ddd5a274175c942e91c33d8ef44d1729b0e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2286-30855ddd5a274175c942e91c33d8ef44d1729b0e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2284-d53af3474f6eb4b1ce21a881b75a8caac5aabd0f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2284-d53af3474f6eb4b1ce21a881b75a8caac5aabd0f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2283-15e665a111220f0ec020af70f1a5ad05973f544e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2283-15e665a111220f0ec020af70f1a5ad05973f544e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2282-3552deff7904b32227e36dc29dc2fd40ecd491e0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2282-3552deff7904b32227e36dc29dc2fd40ecd491e0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2281-447715dd63bb897d36e1c89bf93243026798ba4a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2281-447715dd63bb897d36e1c89bf93243026798ba4a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2278-7cbdca2dde9e6945230d0066e23aa0e05f3339ab",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2278-7cbdca2dde9e6945230d0066e23aa0e05f3339ab/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2270-c1235ffda756db0f35f3b583b831a32cf0cb4461",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2270-c1235ffda756db0f35f3b583b831a32cf0cb4461/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2269-e043aad2d6f718fbc0705adccd0e8d666b6ed1ad",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2269-e043aad2d6f718fbc0705adccd0e8d666b6ed1ad/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2268-43f2b64208ec387820ff854c180c98eeb18047ac",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2268-43f2b64208ec387820ff854c180c98eeb18047ac/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2264-9cf96b1457264b81d24aa63efd2d2175ffc02013",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2264-9cf96b1457264b81d24aa63efd2d2175ffc02013/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2262-742a3bf518a442b05d9ad494b3c9b3cb1fe0d5a1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2262-742a3bf518a442b05d9ad494b3c9b3cb1fe0d5a1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2261-fad6b3c4237693f2c1013a2c21a1c54621a7279a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2261-fad6b3c4237693f2c1013a2c21a1c54621a7279a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2260-e6d99089c8bc4ab0dc758bf7387f986d77405bae",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2260-e6d99089c8bc4ab0dc758bf7387f986d77405bae/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2259-32caccfa217c97aa93a15771f6b94fcf84ef5a89",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2259-32caccfa217c97aa93a15771f6b94fcf84ef5a89/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2258-1d1464ecdd1466c7fcdb6f2c2b01a8f2a18e0c84",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2258-1d1464ecdd1466c7fcdb6f2c2b01a8f2a18e0c84/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2255-3c5923387bf36b82419a6a77647bcfa13655b5ca",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2255-3c5923387bf36b82419a6a77647bcfa13655b5ca/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2254-3dd88ec09c2d00f855acf327c4ee93e92e5552ef",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2254-3dd88ec09c2d00f855acf327c4ee93e92e5552ef/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2253-8e7130db3b9cab386093febc8cc245be8631501e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2253-8e7130db3b9cab386093febc8cc245be8631501e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2252-7fb8cd9b70eed41432dcb4e93a25cb63bb4c8075",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2252-7fb8cd9b70eed41432dcb4e93a25cb63bb4c8075/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2249-196ecb6e37bda88798a44bd5efd54e27474de676",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2249-196ecb6e37bda88798a44bd5efd54e27474de676/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2207-17b76602f6ccb0ab9dc694b96c40b8b4dd37a968",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2207-17b76602f6ccb0ab9dc694b96c40b8b4dd37a968/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2203-02032e7a9268a19264e623cae0c088f78e3176c9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2203-02032e7a9268a19264e623cae0c088f78e3176c9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2202-6c52d3586ae5f8c33acd4953baf292152cabadda",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2202-6c52d3586ae5f8c33acd4953baf292152cabadda/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2201-3b60ed45bd7fe6721ebbde6d668391e55c7c9d60",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2201-3b60ed45bd7fe6721ebbde6d668391e55c7c9d60/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2197-8da04495f65b8607d84dc7cdec483181af217cc3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2197-8da04495f65b8607d84dc7cdec483181af217cc3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2193-eaa0426729b2e298aeea70bd02066926efb205a4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2193-eaa0426729b2e298aeea70bd02066926efb205a4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2189-580e2485ec2e3e5465f3d40a45a47799b9851f22",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2189-580e2485ec2e3e5465f3d40a45a47799b9851f22/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2170-ea5acef21bfc30134f1e7a09c3a97fe134247027",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2170-ea5acef21bfc30134f1e7a09c3a97fe134247027/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2155-32a341c43c5babad0baa1633177b35c7069db0bf",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2155-32a341c43c5babad0baa1633177b35c7069db0bf/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2154-8b74e132069875ff9f42eeadbc3e20ea7fb768b1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2154-8b74e132069875ff9f42eeadbc3e20ea7fb768b1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2148-48f9e105105637b437ce4572dbec9eb6cbec1639",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2148-48f9e105105637b437ce4572dbec9eb6cbec1639/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2146-94703ad45a64de15348d3bfaf925db4cc75de465",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2146-94703ad45a64de15348d3bfaf925db4cc75de465/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2143-437773d81b6b7c0f030c6707b6e0029eb1df9212",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2143-437773d81b6b7c0f030c6707b6e0029eb1df9212/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2139-581a94b50c9b8dd279918db609a9994cac3db898",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2139-581a94b50c9b8dd279918db609a9994cac3db898/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2138-22cdf545022f9a61410dee0aaeb62e747a1a939d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2138-22cdf545022f9a61410dee0aaeb62e747a1a939d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2136-39127e9e7f0b1dc5e8458292eb19991ac2117b97",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2136-39127e9e7f0b1dc5e8458292eb19991ac2117b97/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2135-8a1c11e256a16274daf2b5d513ed0d4e8d6fa11d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2135-8a1c11e256a16274daf2b5d513ed0d4e8d6fa11d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2134-ea1f7257b6ec36a848ee7c321317ff157ba5bf1f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2134-ea1f7257b6ec36a848ee7c321317ff157ba5bf1f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2133-cd7f1306d9dc620ec2e8e9198f2d55e796ffd349",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2133-cd7f1306d9dc620ec2e8e9198f2d55e796ffd349/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2132-73c34aaf8b4503c72831a4c0b02e63b6799e1540",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2132-73c34aaf8b4503c72831a4c0b02e63b6799e1540/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2131-818980311b9738ee8a94e0a2309c1e5b0eb4d483",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2131-818980311b9738ee8a94e0a2309c1e5b0eb4d483/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2130-89b7b732904472d4123cd09bc9b95340afee8d94",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2130-89b7b732904472d4123cd09bc9b95340afee8d94/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2129-6a8260035f7e8fd763989a6ae0be92f93c1659c4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2129-6a8260035f7e8fd763989a6ae0be92f93c1659c4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2128-c1f0370e24bcb0dab354632f875b1fff466405a8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2128-c1f0370e24bcb0dab354632f875b1fff466405a8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2127-11bd2af7bcc43b673704874c16ce81c23bb20818",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2127-11bd2af7bcc43b673704874c16ce81c23bb20818/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2126-663ef7906b3d206b905e70b1bad827b17f2047d1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2126-663ef7906b3d206b905e70b1bad827b17f2047d1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2125-3c5e35a8a4d28673b62d2afaf9e33e216ce75eef",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2125-3c5e35a8a4d28673b62d2afaf9e33e216ce75eef/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2124-33c9b69f1e8b8cf488e33f9fefb2d43d8df07596",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2124-33c9b69f1e8b8cf488e33f9fefb2d43d8df07596/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2123-ddd35f12c2bb32039ce504928d1882c6c61c677f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2123-ddd35f12c2bb32039ce504928d1882c6c61c677f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2122-b0e46144679c765632d20ab7f68fb7ccb0ab4cc0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2122-b0e46144679c765632d20ab7f68fb7ccb0ab4cc0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2121-0b57e402c20d54db8a32f9cec4e89f119b35d953",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2121-0b57e402c20d54db8a32f9cec4e89f119b35d953/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2120-e36980e2e3e0a49be98ac635f9fe58ec20d77de3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2120-e36980e2e3e0a49be98ac635f9fe58ec20d77de3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2119-2ac8dbe9c45e496c1991a54b288c2d59954412f9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2119-2ac8dbe9c45e496c1991a54b288c2d59954412f9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2117-8de70cad3327cf7d2a2cf7f1a6bc42da5f0a92cf",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2117-8de70cad3327cf7d2a2cf7f1a6bc42da5f0a92cf/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2116-1bb088854d2163c6ded3f9b8fbae4f51ccfcc08c",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2116-1bb088854d2163c6ded3f9b8fbae4f51ccfcc08c/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2115-953c290e1d93e01600b424b86047a06893a5929b",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2115-953c290e1d93e01600b424b86047a06893a5929b/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2114-bc50e18b0d4a2d5e282167793e78af61f54468db",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2114-bc50e18b0d4a2d5e282167793e78af61f54468db/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2113-4d9721d287706aff7cd6c618afe29eb014ac9f2d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2113-4d9721d287706aff7cd6c618afe29eb014ac9f2d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2112-492cf3fdd45972077e3dab8f72ecd70663a72f35",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2112-492cf3fdd45972077e3dab8f72ecd70663a72f35/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2111-f04e2a5df156e7c53e9f2d0d889896cf74be76dc",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2111-f04e2a5df156e7c53e9f2d0d889896cf74be76dc/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2110-a4d1ee10e422e3bead667be87018b93669accace",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2110-a4d1ee10e422e3bead667be87018b93669accace/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2109-33ed094bf49d6401ed817b9a989f910a44baccc3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2109-33ed094bf49d6401ed817b9a989f910a44baccc3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2108-d1f635d9936340f8b2376d56b1a260764d4da692",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2108-d1f635d9936340f8b2376d56b1a260764d4da692/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2106-1d3c83857e591074e62978b117964541b1f25126",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2106-1d3c83857e591074e62978b117964541b1f25126/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2105-313181485b740320c84b487a383accf5f03659f8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2105-313181485b740320c84b487a383accf5f03659f8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2104-c07a37e9c827f2c7800476f32d118fc369ec08ed",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2104-c07a37e9c827f2c7800476f32d118fc369ec08ed/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2103-285f5f6af22e5502b431e25948dfdce72bf4bade",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2103-285f5f6af22e5502b431e25948dfdce72bf4bade/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2102-cc8c63e88941985432ce93166ea11fbccf1ddfe9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2102-cc8c63e88941985432ce93166ea11fbccf1ddfe9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2101-581ab1616f446789378eb311667bc1e5fa52153b",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2101-581ab1616f446789378eb311667bc1e5fa52153b/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2100-b35d5909082a217035f035d1583d04e54ad72929",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2100-b35d5909082a217035f035d1583d04e54ad72929/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2099-a66ef942ab2a9b2530272432cf989901f851f753",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2099-a66ef942ab2a9b2530272432cf989901f851f753/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2097-391adf82752f7259e8383304568553e5be3271a5",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2097-391adf82752f7259e8383304568553e5be3271a5/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2096-d747bc9c14c3f87a0b6c46571a3e364a302f51e6",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2096-d747bc9c14c3f87a0b6c46571a3e364a302f51e6/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2095-608798d68acbad2af53905304ad49eb870cd2b73",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2095-608798d68acbad2af53905304ad49eb870cd2b73/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2094-0918a3e76254fbd0c418f85b1910ed5b99fde08e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2094-0918a3e76254fbd0c418f85b1910ed5b99fde08e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2093-6f93fe38273924e9bc2d392d79ff7936ef5f9261",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2093-6f93fe38273924e9bc2d392d79ff7936ef5f9261/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2092-44e9f08cb511d622f6bb7a10eecf2a67ee99ca39",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2092-44e9f08cb511d622f6bb7a10eecf2a67ee99ca39/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2091-dfff20f56b20d8a0669590176754125c04b17d41",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2091-dfff20f56b20d8a0669590176754125c04b17d41/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2089-12445fc62db687811c4be87903f6b0aedb23f100",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2089-12445fc62db687811c4be87903f6b0aedb23f100/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2088-fbed9e12020638193b3ea74dfeac538b77448a0f",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2088-fbed9e12020638193b3ea74dfeac538b77448a0f/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2087-bade4243dc2ad988305b0c0a358aa3d36757ece1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2087-bade4243dc2ad988305b0c0a358aa3d36757ece1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2083-e706306f033fbc9adf69ceb2104412a3bcb547e1",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2083-e706306f033fbc9adf69ceb2104412a3bcb547e1/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2082-98aa304863ef749ca20fb5afdf9e34068cc2c82d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2082-98aa304863ef749ca20fb5afdf9e34068cc2c82d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2077-95f151004a681cf88825bce6d4c97f4d67134975",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2077-95f151004a681cf88825bce6d4c97f4d67134975/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2075-0e74e810fdd7b87511ba41b571014042501bcada",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2075-0e74e810fdd7b87511ba41b571014042501bcada/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2074-94e66517392e25b1d23238d6b3e18452d0d50b3a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2074-94e66517392e25b1d23238d6b3e18452d0d50b3a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2073-20ae968d753c32d0f4e8ce4f22cfaaa3dd9f248e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2073-20ae968d753c32d0f4e8ce4f22cfaaa3dd9f248e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2072-aa5bab957547077212076d9d1b5f4e066e125cbf",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2072-aa5bab957547077212076d9d1b5f4e066e125cbf/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2071-9d34f7a025ce0fa614ddbd26b4371b64ff3adc4e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2071-9d34f7a025ce0fa614ddbd26b4371b64ff3adc4e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2070-d58bb332eba8e5c8a7fe57da65764dd8d3c4b166",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2070-d58bb332eba8e5c8a7fe57da65764dd8d3c4b166/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2069-9e895241dd127f08add2e87455e9d4611ffa4f24",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2069-9e895241dd127f08add2e87455e9d4611ffa4f24/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2068-b47ab9766284a0c7cf2a93ff07533fb18749a7d7",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2068-b47ab9766284a0c7cf2a93ff07533fb18749a7d7/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2066-240be685816148a9f0ffe7c83bcc7cd2893f225a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2066-240be685816148a9f0ffe7c83bcc7cd2893f225a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2065-e1b1d58dcb3e9147f2b95daf4518ea16593c5631",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2065-e1b1d58dcb3e9147f2b95daf4518ea16593c5631/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2064-b9ff85b32f474eabde9b47e7275b576c1e13375d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2064-b9ff85b32f474eabde9b47e7275b576c1e13375d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2062-74800419b92856b3ca10fd024c08594583d00c74",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2062-74800419b92856b3ca10fd024c08594583d00c74/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2060-839fd1d08c4932b53dc7866a07fb4290f2a4e2cd",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2060-839fd1d08c4932b53dc7866a07fb4290f2a4e2cd/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2059-98a37be6921646843aab1a8ed2812cf9b4195e78",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2059-98a37be6921646843aab1a8ed2812cf9b4195e78/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2058-3f63e730e4598f5fbe7f032d12d83f187e59c5c6",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2058-3f63e730e4598f5fbe7f032d12d83f187e59c5c6/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2057-8aea23fac038a7c4d3c0476da2cd157b8bb28d8c",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2057-8aea23fac038a7c4d3c0476da2cd157b8bb28d8c/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2056-976413e661fd3235e27407a1c23db8e38bf69782",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2056-976413e661fd3235e27407a1c23db8e38bf69782/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2055-1960217a09b3ad004a64011556ea47cfd3e8e3f4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2055-1960217a09b3ad004a64011556ea47cfd3e8e3f4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2050-d643e298a341b8deeccc1221745d98486d596df5",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2050-d643e298a341b8deeccc1221745d98486d596df5/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2049-12a67228d3c300eb211b033ad578d30a1a9993af",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2049-12a67228d3c300eb211b033ad578d30a1a9993af/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2044-8d935971d268e9f9bdc33fa557940abc49d60377",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2044-8d935971d268e9f9bdc33fa557940abc49d60377/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2043-5805d46e3ae31e5119d8048b156aa036099cec36",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2043-5805d46e3ae31e5119d8048b156aa036099cec36/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2042-683b5a0442d2cb2b9aa849e11aeb33d03df51382",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2042-683b5a0442d2cb2b9aa849e11aeb33d03df51382/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2041-5d91ab6c22098c298d2a094553ad7889bc8d1c7e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2041-5d91ab6c22098c298d2a094553ad7889bc8d1c7e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2040-4b3c01be169f73882b3ecbc030d528b16a73d839",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2040-4b3c01be169f73882b3ecbc030d528b16a73d839/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2039-2aa39efba7ff7db533aca57cf83f3d7550f2dfa9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2039-2aa39efba7ff7db533aca57cf83f3d7550f2dfa9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2038-2690879faa8ac05930d1537e1247de8d5a77fbdd",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2038-2690879faa8ac05930d1537e1247de8d5a77fbdd/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2037-ea57a47ed07b8bd69cbc73be262da58005b61ccd",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2037-ea57a47ed07b8bd69cbc73be262da58005b61ccd/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2036-9fc6db344022105aae40b2191940a9b382199229",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2036-9fc6db344022105aae40b2191940a9b382199229/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2035-53cfe59f0839a098d4fed7363943960b24e362b8",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2035-53cfe59f0839a098d4fed7363943960b24e362b8/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2034-6cd2cace99e923fd5a5acc0d50e0ca283d5898d3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2034-6cd2cace99e923fd5a5acc0d50e0ca283d5898d3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2033-1cfa1142ffdf79b813ad1dcc213ed7cb2194d666",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2033-1cfa1142ffdf79b813ad1dcc213ed7cb2194d666/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2032-3722bae39dea77e52081fbc3935836eeebd80056",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2032-3722bae39dea77e52081fbc3935836eeebd80056/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2031-6ab10a54024d28946c7da8341ff5e080f0a640b9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2031-6ab10a54024d28946c7da8341ff5e080f0a640b9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2030-3bcc8eb80d7967880fc1f211b815dce7d0a9efbe",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2030-3bcc8eb80d7967880fc1f211b815dce7d0a9efbe/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2029-46bc56e8a685baba38f7b469ad68b8b68e08718a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2029-46bc56e8a685baba38f7b469ad68b8b68e08718a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2025-c9bead254464d598b390ad31ee43c0da24902235",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2025-c9bead254464d598b390ad31ee43c0da24902235/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2024-4097bd1aee1804eaa7d1120ec84bae795c80703d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2024-4097bd1aee1804eaa7d1120ec84bae795c80703d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2023-65018d348ad349f43f9df0bfcee96c6469da9097",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2023-65018d348ad349f43f9df0bfcee96c6469da9097/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2022-f7aeda3d013ca2dcd6f38e50d3778b3b8e8ff00b",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2022-f7aeda3d013ca2dcd6f38e50d3778b3b8e8ff00b/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2021-fd32869bfb69e4234f63ffc10cdc7f6a3001413a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2021-fd32869bfb69e4234f63ffc10cdc7f6a3001413a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2020-9b48075ceaadf4dbf42d0f66df4338b04d4c0464",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2020-9b48075ceaadf4dbf42d0f66df4338b04d4c0464/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2018-e544de26f6be5017dbc791a30b21ab3e1095fbba",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2018-e544de26f6be5017dbc791a30b21ab3e1095fbba/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2017-084adaf050cfb7e25e0bc45ae74089d5fee5a1ee",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2017-084adaf050cfb7e25e0bc45ae74089d5fee5a1ee/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2016-14af3df9765242fb56a7a63363ad876d7716d056",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2016-14af3df9765242fb56a7a63363ad876d7716d056/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2015-5d525a99487cbf46ea48561094cd609ea40f3a4d",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2015-5d525a99487cbf46ea48561094cd609ea40f3a4d/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2014-aa30d0dd6ba153d0067a798eeef3eb1222162f5a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2014-aa30d0dd6ba153d0067a798eeef3eb1222162f5a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2012-b7f589308af6f4ae2fe25a0bfdbe65e525942ce9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2012-b7f589308af6f4ae2fe25a0bfdbe65e525942ce9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2011-e738f2feab554c220ecfe63e3eedf3de9e0f138e",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2011-e738f2feab554c220ecfe63e3eedf3de9e0f138e/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2010-6bb9a5cbc103193eaeb709bdb59440b77cc9b4ab",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2010-6bb9a5cbc103193eaeb709bdb59440b77cc9b4ab/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2009-c3a411bf4ef608be1826c84fc18f90e331472a91",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2009-c3a411bf4ef608be1826c84fc18f90e331472a91/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2007-50add32326815b21756d53f1614338726ce17c27",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2007-50add32326815b21756d53f1614338726ce17c27/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2006-e947128685655d8d8ff7332b70d8338f5f1e1cd0",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2006-e947128685655d8d8ff7332b70d8338f5f1e1cd0/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2005-9f5196a4431caac6c9976de03a5f248fe9d408e9",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2005-9f5196a4431caac6c9976de03a5f248fe9d408e9/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2004-e81312d831458a429523a6ca8e050ef33f35a6b3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2004-e81312d831458a429523a6ca8e050ef33f35a6b3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2003-a0f99a6633e7baf40eec9556606ee5d379650cb3",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2003-a0f99a6633e7baf40eec9556606ee5d379650cb3/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2002-74f7255c5650b93658ed3ab3f9a711a57e8c37a6",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2002-74f7255c5650b93658ed3ab3f9a711a57e8c37a6/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2001-80265bbee0cf4b7d1a408832f8ba7dc4f294b554",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2001-80265bbee0cf4b7d1a408832f8ba7dc4f294b554/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2000-871e449a8eecc3a9b4d5fc48d2cfc2e1823552fb",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2000-871e449a8eecc3a9b4d5fc48d2cfc2e1823552fb/server.zip",
+            "target": 0
+        }
+    ]
+}
