@@ -2,6 +2,76 @@
     "$schema": "https://raw.githubusercontent.com/LambentLight/Schemas/master/builds.json",
     "builds": [
         {
+            "name": "2410-1dd315b62c07d5571e0369e52b4987d01596d1b2",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2410-1dd315b62c07d5571e0369e52b4987d01596d1b2/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2409-8848a12ca87b9f979c784e62e7e2343ff096e02a",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2409-8848a12ca87b9f979c784e62e7e2343ff096e02a/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2407-4e1082746b3fcf07a193f366bbaf922e0f139467",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2407-4e1082746b3fcf07a193f366bbaf922e0f139467/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2406-48ef488f69b8d04a5ef708d4c94a36943c6df532",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2406-48ef488f69b8d04a5ef708d4c94a36943c6df532/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2405-885aa82f965f47c413fa60ac2dc68de9da84e710",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2405-885aa82f965f47c413fa60ac2dc68de9da84e710/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2404-eecaa7881b9328dcd2481d256b7298b01243d7ad",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2404-eecaa7881b9328dcd2481d256b7298b01243d7ad/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2403-a1eb783c4ad9b68486267b5143737b33e9440edd",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2403-a1eb783c4ad9b68486267b5143737b33e9440edd/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2402-241dffec0568879908bc56887ed8cab9fb38b573",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2402-241dffec0568879908bc56887ed8cab9fb38b573/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2401-f3e9a5a76a1f0bbe4e0d325c140a11361936e0bc",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2401-f3e9a5a76a1f0bbe4e0d325c140a11361936e0bc/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2399-b0457081c6e4d6771deba6fbe69eec71331f1cf4",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2399-b0457081c6e4d6771deba6fbe69eec71331f1cf4/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2398-da85f733f4342393d5c3708653d7d4d569136190",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2398-da85f733f4342393d5c3708653d7d4d569136190/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2397-d16cd9e2a657f0e72943ac23b8415e8984fb80df",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2397-d16cd9e2a657f0e72943ac23b8415e8984fb80df/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2396-447233764773b204216a4366694811e39e416da5",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2396-447233764773b204216a4366694811e39e416da5/server.zip",
+            "target": 0
+        },
+        {
+            "name": "2395-141800f3ab1ff5e18e0ea541317224fd19d05c64",
+            "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2395-141800f3ab1ff5e18e0ea541317224fd19d05c64/server.zip",
+            "target": 0
+        },
+        {
             "name": "2394-1aa68b21bf9dc5faaad2c967a1274d98250cdaae",
             "download": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/2394-1aa68b21bf9dc5faaad2c967a1274d98250cdaae/server.zip",
             "target": 0
